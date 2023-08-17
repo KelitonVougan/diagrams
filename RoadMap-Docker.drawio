@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T20:55:53.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" etag="uaoCIwyafHW9a1BM_JED" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T23:43:22.202Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="GezaV4tFOtkqT0uzm2CZ" version="21.6.8" type="github">
   <diagram name="Página-1" id="PT8iDLhcYljWOaQJN8Hs">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gFYqJmrAvyof7589NjqG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#4C0099;" edge="1" parent="1" source="gFYqJmrAvyof7589NjqG-1" target="gFYqJmrAvyof7589NjqG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYqJmrAvyof7589NjqG-1" value="&lt;h1 align=&quot;center&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;O que é Container?&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;Container é um nível de abstração cujo a ideia é isolar processos, usuários, rede. Note que o container diferente de uma virtualização está mais ligado a estrutura logica de uma aplicação.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="261" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYqJmrAvyof7589NjqG-2" value="&lt;a href=&quot;https://www.youtube.com/watch?v=qZevFPMtQho&amp;amp;list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR&amp;amp;index=2&quot;&gt;&lt;font color=&quot;#4c0099&quot;&gt;&lt;b&gt;Video&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="651" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYqJmrAvyof7589NjqG-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png;" vertex="1" parent="1">
+          <mxGeometry x="647.66" y="220" width="66.67" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
