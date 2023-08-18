@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T02:23:06.972Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="FO7V1lk6F2izev2pIW-H" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T03:53:30.663Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="szHPcoPb_Nyehdu6m-vB" version="21.6.8" type="github">
   <diagram name="Página-1" id="PT8iDLhcYljWOaQJN8Hs">
-    <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
         <mxCell id="gFYqJmrAvyof7589NjqG-79" value="&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;Neste exemplo temos uma arquitetura clássica de virtualização de maquina:&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;Um hypervisor faz a comunicação diretamente com o hardware físico do servidor, e por sua vez gerencia os recursos de hardware pra diferentes maquinas virtuais (abstração vamos chamar assim). Cada VM é isolada uma da outra, cada uma com seu próprio sistema operacional&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="370" width="332" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gFYqJmrAvyof7589NjqG-80" value="&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;Aqui temos um cenário parecido, porém a ideia é utilizar a mesma logica de abstração de virtualização de sistema operacionais porém, limitando isso a um escopo mais lógico.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;A ideia não é exatamente isolar recurso de hardware, mas isolar pacotes, diretórios, bibliotecas e todo pacote necessário para que uma aplicação especifica consiga rodar de forma independente, assim temos a vantagem de ter a mesma aplicação diretamente no sistema operacional, porém com 2 versões diferentes delas, sem interferir uma com a outra&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gFYqJmrAvyof7589NjqG-80" value="&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;Aqui temos um cenário parecido, a ideia é utilizar a mesma logica de abstração de virtualização de sistema operacionais porém, limitando isso a um escopo mais lógico.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;A ideia não é exatamente isolar recurso de hardware, mas isolar pacotes, diretórios, bibliotecas e tudo que é necessário para que uma aplicação especifica consiga rodar de forma independente, assim temos a vantagem de ter a mesma aplicação diretamente no sistema operacional, porém com 2 versões diferentes delas, sem interferir uma com a outra (essa é apenas uma vantagem, existem outras)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="470" width="332" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gFYqJmrAvyof7589NjqG-81" value="&lt;div align=&quot;justify&quot;&gt;E aqui temos a união dos dois conceitos de abstração:&lt;br&gt;A virtualização de sistemas operacionais completos e a &quot;virtualização de aplicações&quot; que é o container.&lt;br&gt;Na pratica essa é a arquitetura que você vai ver em quase todo ambiente de produção&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -172,6 +172,12 @@
         </mxCell>
         <mxCell id="vozkf6tA9N1DTtl57gn6-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="870" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vozkf6tA9N1DTtl57gn6-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=25;endSize=6.03;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="1150" as="sourcePoint" />
+            <mxPoint x="413" y="1240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
