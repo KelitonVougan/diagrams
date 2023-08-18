@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T02:22:25.541Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="fihZzOHcw13TAYO5Ukyu" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T02:23:06.972Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="FO7V1lk6F2izev2pIW-H" version="21.6.8" type="github">
   <diagram name="Página-1" id="PT8iDLhcYljWOaQJN8Hs">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,8 +167,11 @@
         <mxCell id="vozkf6tA9N1DTtl57gn6-1" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;NOTA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="885" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vozkf6tA9N1DTtl57gn6-2" value="&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;&lt;b&gt;Embora pareçam similares olhando esses desenhos, maquinas virtuais e containers são bem diferentes em sua arquitetura base. Mas não vamos entrar em detalhes ainda, estamos somente na superfície.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeWidth=2;perimeterSpacing=0;" vertex="1" parent="1">
+        <mxCell id="vozkf6tA9N1DTtl57gn6-2" value="&lt;div align=&quot;justify&quot;&gt;&lt;font color=&quot;#2e2e2e&quot;&gt;&lt;b&gt;Embora pareçam similares olhando esses desenhos, maquinas virtuais e containers são bem diferentes em sua arquitetura base. Mas não vamos entrar em detalhes ainda, estamos somente na superfície.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeWidth=2;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="915" width="270" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="vozkf6tA9N1DTtl57gn6-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="870" width="290" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
