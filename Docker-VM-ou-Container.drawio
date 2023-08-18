@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T03:53:30.663Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="szHPcoPb_Nyehdu6m-vB" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T03:53:59.026Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="6nkxIUwEuzop65ZIFecz" version="21.6.8" type="github">
   <diagram name="Página-1" id="PT8iDLhcYljWOaQJN8Hs">
-    <mxGraphModel dx="925" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,9 +160,6 @@
         </mxCell>
         <mxCell id="gFYqJmrAvyof7589NjqG-91" value="&lt;font color=&quot;#0066cc&quot;&gt;Kernel&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gFYqJmrAvyof7589NjqG-86" vertex="1">
           <mxGeometry x="90.5" y="140" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gFYqJmrAvyof7589NjqG-89" value="&lt;font color=&quot;#0066cc&quot;&gt;VM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="950" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vozkf6tA9N1DTtl57gn6-1" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;NOTA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="885" width="50" height="30" as="geometry" />
