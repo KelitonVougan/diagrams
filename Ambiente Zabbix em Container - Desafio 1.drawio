@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T02:42:05.561Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="iHCLimX7cEtNYV2kO7pb" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T02:54:20.332Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="PpWwLTJ7zCMskjn93x82" version="21.6.8" type="github">
   <diagram name="Página-1" id="HObaGmJfU6cW_uGDjIfL">
     <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="i-EBkG4W8lG_7rL8BpoN-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.checkmk.com/latest/images/grafana_logo.png;" parent="i-EBkG4W8lG_7rL8BpoN-44" vertex="1">
           <mxGeometry width="67" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="i-EBkG4W8lG_7rL8BpoN-61" value="&lt;font color=&quot;#009900&quot; face=&quot;Rubik&quot;&gt;&lt;b&gt;Network-01&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i-EBkG4W8lG_7rL8BpoN-44" vertex="1">
+        <mxCell id="i-EBkG4W8lG_7rL8BpoN-61" value="&lt;div&gt;&lt;font color=&quot;#009900&quot; face=&quot;Rubik&quot;&gt;&lt;b&gt;Network-02&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i-EBkG4W8lG_7rL8BpoN-44" vertex="1">
           <mxGeometry x="-39" y="207" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i-EBkG4W8lG_7rL8BpoN-45" value="" style="group" parent="1" vertex="1" connectable="0">
